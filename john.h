@@ -1,8 +1,6 @@
 #ifndef JOHN_H
 #define JOHN_H
 
-#include <stdio.h>
-
 #define __JOHN_MAX_KEY_LENGTH__ 64
 #define __JOHN_MAX_VALUE_LENGTH__ 256
 #define __JOHN_MAX_CHILDREN__ 16
